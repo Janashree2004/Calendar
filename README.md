@@ -36,7 +36,7 @@ Creating Calendar using HTML and CSS
 
 ## Output
 
-
+![image](https://github.com/Janashree2004/Calendar/assets/142415775/e09832df-0265-458a-84bc-21dc63df7306)
 
 ## License
 
